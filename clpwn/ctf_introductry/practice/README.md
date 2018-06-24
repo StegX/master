@@ -43,7 +43,7 @@ exif情報とは、そのファイルが作成された時間、作成された�
 ## base64で変換して
 出てきたものが何であるか、パット見てわからなければあなたは人生経験が足りません。これについては何も言うことありません。この文字列？を変換したメッセージが今回のflagのようなものです。お疲れ様でした。
 # 今回のflagまでの解答
-'''bash
+```bash
 $ file data
 data: Zip archive data, at least v2.0 to extract
 $ mv data data.zip
@@ -66,7 +66,7 @@ $ cat exam.txt
 Li0tIC4gLi0uLiAtLi0uIC0tLSAtLSAuIC4uLS0uLSAtIC0tLSAuLi0tLi0gLS4tLiAtIC4uLS4=
 $echo "Li0tIC4gLi0uLiAtLi0uIC0tLSAtLSAuIC4uLS0uLSAtIC0tLSAuLi0tLi0gLS4tLiAtIC4uLS4="| base64 -d
 .-- . .-.. -.-. --- -- . ..--.- - --- ..--.- -.-. - ..-.
-'''
+```
 このモールス信号を変換して　WELCOME_TO_CTF</br>
 小文字でも大文字構わない、_は＃とかになっているかもしれない。
 # 覚えておいて欲しいこと
