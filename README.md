@@ -1,2 +1,2 @@
 # clpwn
-## niigata-univ cysecc
+niigata-univ cysecc
