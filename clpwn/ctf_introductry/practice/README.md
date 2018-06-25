@@ -66,7 +66,7 @@ data: Zip archive data, at least v2.0 to extract
 $ mv data data.zip
 $ unzip data.zip
 Archive:  data.zip
-[data.zip] exam.txt password: onfr8k8<<rot13
+[data.zip] exam.txt password: 
    skipping: exam.txt                incorrect password
 $ strings data.zip
 exam.txtUT
@@ -77,7 +77,7 @@ exam.txtUT
 pass:onfr8k8<<rot13
 $ unzip data.zip
 Archive:  data.zip
-[data.zip] exam.txt password:
+[data.zip] exam.txt password: onfr8k8<<rot13
   inflating: exam.txt
 $ cat exam.txt
 Li0tIC4gLi0uLiAtLi0uIC0tLSAtLSAuIC4uLS0uLSAtIC0tLSAuLi0tLi0gLS4tLiAtIC4uLS4=
