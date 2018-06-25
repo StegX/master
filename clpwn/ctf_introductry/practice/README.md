@@ -4,7 +4,7 @@
 ## 問題ファイルの取得
 ご存知の通りコマンドライン上でファイルをダウンロードするには</br>
 ```bash
-wget https://github.com/StegX/master/raw/master/clpwn/ctf_introductry/practice/data
+$ wget https://github.com/StegX/master/raw/master/clpwn/ctf_introductry/practice/data
 ```
 それでは、与えられたファイルを見てみましょう。お分かりの通り拡張子がありませんのでファイルの形式がはっきりしません。ファイルマネージャーによっては、もうどんなファイルか分かっているのかもしれませんがここでは拡張子が分からないとして話を進めていきます。また、この説明はターミナルが使えることを前提としています。
 ## ファイルの形式の確認
