@@ -1,2 +1,2 @@
-# KPMG Malaysia CTF 2017 : Encoded
-flag format:{}
+# original problem Change Change
+flag format:CTF{}
