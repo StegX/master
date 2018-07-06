@@ -1,2 +1,2 @@
-# original problem Change Change
+# Original problem    Change Change
 flag format:CTF{}
