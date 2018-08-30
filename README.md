@@ -2,6 +2,5 @@
 niigata-univ cysecc
 
 # experiment
-気にせんといて
 
-masterディレクトリ作ちゃったやん
+手直しが多く無駄なcommit
