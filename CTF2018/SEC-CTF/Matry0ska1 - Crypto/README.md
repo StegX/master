@@ -1,3 +1,0 @@
-* Matry0ska1 - Crypto (60)
-Discrete logarithms are hard... 
-*** Service: nc 178.128.171.133 4444 | nc crypto.sect.ctf.rocks 4444 
