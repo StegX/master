@@ -1,3 +1,3 @@
-* Puppetmatryoshka - Misc (407)
+# Puppetmatryoshka - Misc (407)
 Greetings Kusanagi, your mission is to find Puppet Master.  
-*** Download: puppetmatryoshka.tar.gz 
+### Download: puppetmatryoshka.tar.gz 
