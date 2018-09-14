@@ -1,5 +1,5 @@
-* Batou - Misc (407)
+# Batou - Misc (407)
 We manage to collect a dump from Batou's computer. Try to find info/notes that can help us 
-*** Download: batou.tar.gz 
+### Download: batou.tar.gz 
 
-’Ç‹LF batou.tar.gz‚Í—e—Ê‚ª‘å‚«‚·‚¬‚é‚Ì‚Åupo—ˆ‚È‚©‚Á‚½Bƒ`ƒƒƒŒƒ“ƒW‚µ‚½‚¢ê‡‚Í‚²ˆê•ñ‚­‚¾‚³‚¢B
+è¿½è¨˜ï¼š batou.tar.gzã¯å®¹é‡ãŒå¤§ãã™ãã‚‹ã®ã§upå‡ºæ¥ãªã‹ã£ãŸã€‚ãƒãƒ£ãƒ¬ãƒ³ã‚¸ã—ãŸã„å ´åˆã¯ã”ä¸€å ±ãã ã•ã„ã€‚
