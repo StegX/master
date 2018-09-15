@@ -1,2 +1,2 @@
 # SEC-CTF 2018
-基本的には
+基本的にはForensics,Miscのみwriteupを探す。
