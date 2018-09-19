@@ -1,2 +1,3 @@
 # CSAWCTF2018
-ƒT[ƒo[‚Í¶‚«‚Ä‚¢‚é‚©•ª‚©‚ç‚È‚¢Bwriteup‚Íforensics,misc‚Ì‚İB
+ã‚µãƒ¼ãƒãƒ¼ã¯ç”Ÿãã¦ã„ã‚‹ã‹åˆ†ã‹ã‚‰ãªã„ã€‚writeupã¯åŸºæœ¬forensics,miscã®ã¿ã€‚<\bf>
+è¿½è¨˜ï¼šã„ãã¤ã‹ã®writeup=https://gitlab.com/mahham/ctf/blob/master/2018-csaw/Readme.md#bin_t-50-misc
