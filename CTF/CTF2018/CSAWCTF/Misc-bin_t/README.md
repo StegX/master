@@ -3,3 +3,5 @@
 Binary trees let you do some interesting things. Can you balance a tree?
 ### nc misc.chal.csaw.io 9001
 Equal nodes should be inserted to the right of the parent node. You should balance the tree as you add nodes.
+
+writeup?:https://github.com/iosifache/CTF-writeups/blob/master/misc/bin_t/solver.py
